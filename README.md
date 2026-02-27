@@ -47,6 +47,9 @@ Travel memory places experienced.
 <img width="1914" height="1032" alt="image" src="https://github.com/user-attachments/assets/b74562ee-948a-4814-9ebf-f23895338d8c" />
 <img width="1106" height="763" alt="image" src="https://github.com/user-attachments/assets/a04265ed-983a-477a-adfc-afa444a41c1d" />
 
+Architecure-Diagram-Travel-Memory
+<img width="983" height="1471" alt="Architecture-Diagram-Travel-memory" src="https://github.com/user-attachments/assets/12494d1e-c51f-4529-8eaa-2c1ec6ad9832" />
+
 
 
 

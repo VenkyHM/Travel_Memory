@@ -30,4 +30,4 @@ For frontend, you need to create `.env` file and put the following content (reme
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
 ```
-venkatesh
+![AWS-EC2](https://github.com/user-attachments/assets/24e74aaf-0837-4f40-8dad-989f2ca9512a)

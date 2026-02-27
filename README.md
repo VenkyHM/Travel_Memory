@@ -31,3 +31,8 @@ For frontend, you need to create `.env` file and put the following content (reme
 REACT_APP_BACKEND_URL=http://localhost:3001
 ```
 ![AWS-EC2](https://github.com/user-attachments/assets/24e74aaf-0837-4f40-8dad-989f2ca9512a)
+
+
+Imgaes created for both back and frontend servers.
+<img width="1656" height="947" alt="image" src="https://github.com/user-attachments/assets/21c2b116-ccfe-42dd-939a-b29599cdb23d" />
+

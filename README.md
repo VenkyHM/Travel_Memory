@@ -43,5 +43,11 @@ Target Groups are created for both frontend and backend servers.
 LoadBalcer for travel memory 
 <img width="1648" height="945" alt="image" src="https://github.com/user-attachments/assets/ae018139-1d09-4529-b5ab-0de688d8fb8f" />
 
+Travel memory places experienced.
+<img width="1914" height="1032" alt="image" src="https://github.com/user-attachments/assets/b74562ee-948a-4814-9ebf-f23895338d8c" />
+<img width="1106" height="763" alt="image" src="https://github.com/user-attachments/assets/a04265ed-983a-477a-adfc-afa444a41c1d" />
+
+
+
 
 

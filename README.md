@@ -36,3 +36,7 @@ REACT_APP_BACKEND_URL=http://localhost:3001
 Imgaes created for both back and frontend servers.
 <img width="1656" height="947" alt="image" src="https://github.com/user-attachments/assets/21c2b116-ccfe-42dd-939a-b29599cdb23d" />
 
+Target Groups are created for both frontend and backend servers.
+<img width="1656" height="947" alt="image" src="https://github.com/user-attachments/assets/7cfa4b18-d9fc-44b8-aeef-673693330306" />
+
+
